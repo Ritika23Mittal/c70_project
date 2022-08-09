@@ -1,0 +1,51 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.school_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.travel_mainDiv img
+{
+    width: 100%;
+}
+
+.school_mainDiv h4
+{
+    margin: 20px;
+}
+
+
+.p img
+{
+width: 600px;
+height: 600px;
+}
+
+.c
+{
+    width: 1000px;
+    height: 500px;
+}
+.movie_head
+{
+font-size: 20px;
+padding: 6px 20px;
+border-radius: 10px;
+margin-bottom: 15px;
+}
+
+.z img
+{
+width: 1000px;
+height: 1000px;
+}
+
+.t 
+{
+color: black;    
+font-size: 15px;
+}
